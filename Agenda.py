@@ -186,6 +186,7 @@ def presentar_menu():
         print("6. Borrar un contacto")
         print("7. Guardar contactos en archivo")
         print("9. Salir")
+        crear_linea()
         opc = preguntar_numero("Seleccione opción: ")
         crear_linea()
         match (opc):

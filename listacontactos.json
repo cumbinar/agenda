@@ -1,11 +1,25 @@
 [
     {
-        "documento": 19408240,
-        "nombres": "Eduardo Seraf\u00edn Guevara Melo",
-        "apellidos": "mmmmmm",
+        "documento": 191919,
+        "nombres": "Eduardo Seraf\u00edn",
+        "apellidos": "Guevara Melo",
         "genero": "M",
-        "edad": 33,
-        "lugarnacimiento": "ppaa",
-        "listatelefonos": []
+        "edad": 61,
+        "lugarnacimiento": "Cumbitara",
+        "listatelefonos": [
+            23232323
+        ]
+    },
+    {
+        "documento": 222222,
+        "nombres": "Juan Pablo",
+        "apellidos": "P\u00e9rez Galdo",
+        "genero": "M",
+        "edad": 22,
+        "lugarnacimiento": "Pasto",
+        "listatelefonos": [
+            6666789,
+            5656565
+        ]
     }
 ]
